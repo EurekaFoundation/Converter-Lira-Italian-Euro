@@ -3,4 +3,4 @@ Covertitor Lira Italian Euro
 
 Devoleped by Vincenzo Franchino 
 
-Copyleft (c) Eureka Foundation 2021-2023
+Copyleft (c) Eureka Foundation 2024
