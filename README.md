@@ -1,5 +1,5 @@
-# Convertitor-Lira-Italian-Euro
-Covertitor Lira Italian Euro
+# Convertitore-Lira-Italian-Euro
+Covertitore Lira Italian Euro
 
 Devoleped by Vincenzo Franchino 
 
